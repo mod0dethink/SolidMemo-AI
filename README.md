@@ -1,1 +1,2 @@
 # SolidMemo-AI
+Solid MemoのFlaskサーバー
